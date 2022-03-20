@@ -1,0 +1,30 @@
+[
+    {
+        "rating": "4.5",
+        "title": "The WATER CURE",
+        "text": "Matrin Hyatt",
+        "img": "assets/imgs/p1.PNG",
+        "audio": "Voices.mp3"
+    },
+    {
+        "rating": "4.6",
+        "title": "BOGY MAN",
+        "text": "RAYAN STONE",
+        "img": "assets/imgs/p2.PNG",
+        "audio": "Voices.mp3"
+    },
+    {
+        "rating": "4.4",
+        "title": "Harry Potter",
+        "text": "MANTO KELL",
+        "img": "assets/imgs/p3.PNG",
+        "audio": "Voices.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title": "HERCLUSE ADVENTURES",
+        "text": "POBY ASLY",
+        "img": "assets/imgs/p4.PNG",
+        "audio": "Voices.mp3"
+    }
+]

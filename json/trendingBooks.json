@@ -1,0 +1,30 @@
+[
+    {
+        "rating": "4.5",
+        "title": "IOS DEVELOPMENT",
+        "text": "steve jops says",
+        "img": "assets/trendingImgs/1.jpg",
+        "audio": "Voices.mp3"
+    },
+    {
+        "rating": "4.3",
+        "title": "SOMETIMES",
+        "text": "Some one tell that",
+        "img": "assets/trendingImgs/2.jpg",
+        "audio": "Voices.mp3"
+    },
+    {
+        "rating": "4.6",
+        "title": "COLLEAGE LIFE P1",
+        "text": "Islam Ahmed",
+        "img": "assets/trendingImgs/3.bmp",
+        "audio": "Voices.mp3"
+    },
+    {
+        "rating": "4.4",
+        "title": "COLLEAGE LIFE P2",
+        "text": "Islam Ahmed",
+        "img": "assets/trendingImgs/4.bmp",
+        "audio": "Voices.mp3"
+    }
+]

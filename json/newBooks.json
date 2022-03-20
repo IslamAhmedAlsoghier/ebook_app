@@ -1,0 +1,30 @@
+[
+    {
+        "rating": "4.2",
+        "title": "PRACTICAL FLUTTER",
+        "text": "Frank Zammetti",
+        "img": "assets/newImgs/1.PNG",
+        "audio": "Voices.mp3"
+    },
+    {
+        "rating": "4.6",
+        "title": "GOOGLE FLUTTER",
+        "text": "GOOGLE DEVELOPPERS",
+        "img": "assets/newImgs/2.PNG",
+        "audio": "Voices.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title": "FLUTTER PROJECTS",
+        "text": "SIMONE ALESSANDRIA",
+        "img": "assets/newImgs/3.PNG",
+        "audio": "Voices.mp3"
+    },
+    {
+        "rating": "4.0",
+        "title": "برمجة تطبيقات الجوال",
+        "text": "فيصل الاسود",
+        "img": "assets/newImgs/4.PNG",
+        "audio": "Voices.mp3"
+    }
+]
